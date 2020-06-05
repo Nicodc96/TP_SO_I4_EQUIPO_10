@@ -2,10 +2,10 @@ Díaz, Lautaro
 Calvo, Carlos
 
 
-A -
-B -
-C -
-D -
+A - Azul
+B - Azul
+C - Azul
+D - El favicon que quedó en MASTER es el de ALFA
 E -
 F -
 G -
