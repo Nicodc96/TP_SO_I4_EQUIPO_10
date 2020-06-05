@@ -13,5 +13,5 @@ F -
 G - 
 - GAMMA -
 ~ Se debe chequear la rama donde se está trabajando con 'git checkout ...' y luego confirmar el merge haciendo el posterior push
-H -
+H - <Alfa> Se comporta como un push normal.
 I -
