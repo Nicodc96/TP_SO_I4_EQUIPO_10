@@ -1,0 +1,13 @@
+Díaz, Lautaro
+Calvo, Carlos
+
+
+A - Tiene color azul (Beta hizo push en el punto 12, Alfa no)
+B - Tiene color azul 
+C - Tiene color azul 
+D - Quedó el favicon de Alfa
+E -
+F -
+G -
+H -
+I -
