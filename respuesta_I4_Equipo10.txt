@@ -6,8 +6,12 @@ A - Azul
 B - Azul
 C - Azul
 D - El favicon que quedó en MASTER es el de ALFA
-E -
-F -
-G -
+E - GAMMA tuvo un problema al hacer push del punto 21, se tuvo que hacer un 'git pull' antes de hacer el push y que los cambios queden subidos.
+F - 
+- GAMMA -
+~ Hubo algunos problemas con el merge, sobretodo cuando no se está parado en el branch correcto.
+G - 
+- GAMMA -
+~ Se debe chequear la rama donde se está trabajando con 'git checkout ...' y luego confirmar el merge haciendo el posterior push
 H -
 I -
