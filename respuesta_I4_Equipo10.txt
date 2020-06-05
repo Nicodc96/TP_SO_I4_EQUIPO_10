@@ -14,5 +14,5 @@ F -
 G - 
 - GAMMA -
 ~ Se debe chequear la rama donde se está trabajando con 'git checkout ...' y luego confirmar el merge haciendo el posterior push
-H - <Alfa> Se comporta como un push normal.
-I -
+H - <Alfa> Se comporta como un push normal. <Gamma> Es un push forzado.
+I - Se debe hacer un merge de MASTER a DESARROLLO.
